@@ -3,4 +3,4 @@
  
 ## Screenshot
 
-<img alt="Screenshot" width="512" align="center" src="https://github.com/BaggyGishev/Photon-Pushers/blob/main/GithubContents/Screenshot_1.png?raw=true">
+<img alt="Screenshot" width="512" align="center" src="https://github.com/BaggyGishev/Ideas-Generator/blob/main/GithubContents/Screenshot_1.png?raw=true">
